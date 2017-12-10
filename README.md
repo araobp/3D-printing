@@ -4,4 +4,4 @@
 
 ![My first creation "part1"](./doc/part1.jpg)
 
-[Movie of "BIQU Magician 3D" printing the part](./doc/part1.jpg)
+[Movie of "BIQU Magician 3D" printing the part](./doc/3d_printing.mp4)
