@@ -4,6 +4,8 @@
 
 ![My 3D printer "BIQU Magician 3D"](./doc/BIQU_Magician_3D.jpg)
 
+I use FreeCAD to create 3D objects.
+
 ### My first creation "part1"
 
 ![My first creation "part1"](./doc/part1.jpg)
