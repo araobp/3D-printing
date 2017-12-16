@@ -13,3 +13,13 @@ I use FreeCAD to create 3D objects.
 [part1 STL file](./part1/part1.stl)
 
 [Movie of "BIQU Magician 3D" printing the part](./doc/3d_printing.mp4)
+
+### Mt. Fuji
+
+![Mt. Fuji](./doc/fuji.jpg)
+
+### GPS case
+
+[GPS case (STL)](./gps/gps.stl)
+
+[GPS case (SVG)](./gps/gps.svg)
