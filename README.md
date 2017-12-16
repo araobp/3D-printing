@@ -1,6 +1,6 @@
 # 3D printing
 
-I have bought [BIQU Magicain 3D at $300 on Amazon](https://www.biqu.equipment/products/biqu-magician-3d-printer-new-diy-kit-mini-kossel-delta-printing).
+I have bought [BIQU Magicain 3D at $300 on Amazon](https://www.biqu.equipment/products/biqu-magician-3d-printer-new-diy-kit-mini-kossel-delta-printing), and I have started learning 3D CAD with [freeCAD](https://www.freecadweb.org/).
 
 ![My 3D printer "BIQU Magician 3D"](./doc/BIQU_Magician_3D.jpg)
 
