@@ -10,8 +10,6 @@ I use FreeCAD to create 3D objects.
 
 ![My first creation "part1"](./doc/part1.jpg)
 
-[part1 STL file](./part1/part1.stl)
-
 [Movie of "BIQU Magician 3D" printing the part](./doc/3d_printing.mp4)
 
 ### Mt. Fuji
