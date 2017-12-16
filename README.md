@@ -14,6 +14,10 @@ I use FreeCAD to create 3D objects.
 
 [Movie of "BIQU Magician 3D" printing the part](./doc/3d_printing.mp4)
 
+### Mt. Fuji
+
+![Mt. Fuji](./doc/fuji.jpg)
+
 ### GPS case
 
 [GPS case (STL)](./gps/gps.stl)
