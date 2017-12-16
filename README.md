@@ -20,6 +20,8 @@ I use FreeCAD to create 3D objects.
 
 ### GPS case
 
+![GPS case](./gps/gps.jpg)
+
 [GPS case (STL)](./gps/gps.stl)
 
 [GPS case (SVG)](./gps/gps.svg)
