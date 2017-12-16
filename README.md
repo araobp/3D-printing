@@ -1,10 +1,8 @@
 # 3D printing
 
-## My 3D printer "BIQU Magician 3D"
+I have bought [BIQU Magicain 3D at $300 on Amazon](https://www.biqu.equipment/products/biqu-magician-3d-printer-new-diy-kit-mini-kossel-delta-printing).
 
 ![My 3D printer "BIQU Magician 3D"](./doc/BIQU_Magician_3D.jpg)
-
-I use FreeCAD to create 3D objects.
 
 ### My first creation "part1"
 
