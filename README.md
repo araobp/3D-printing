@@ -27,3 +27,14 @@ This is a case for [this GPS module](http://akizukidenshi.com/catalog/g/gK-09991
 [GPS case (STL)](./gps/gps.stl)
 
 [GPS case (SVG)](./gps/gps.svg)
+
+### Stand
+
+This is a stand for some gadget.
+
+![Stand](./stand/stand.jpg)
+
+[Stand (STL)](./stand/stand.stl)
+
+[Stand (SVG)](./stand/stand.svg)
+
