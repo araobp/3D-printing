@@ -30,7 +30,7 @@ This is a case for [this GPS module](http://akizukidenshi.com/catalog/g/gK-09991
 
 ### Stand
 
-This is a stand for some gadget.
+This is a stand for bluetooth headset:
 
 ![Stand](./stand/stand.jpg)
 
@@ -38,3 +38,8 @@ This is a stand for some gadget.
 
 [Stand (SVG)](./stand/stand.svg)
 
+### Case for PCB-scope
+
+This is a case for a very cheap oscilloscope ["PCB-scope"](http://www.picaxe.com/Hardware/Add-on-Modules/PCB-scope/):
+
+![Case](./osc001/osc001.jpg)
