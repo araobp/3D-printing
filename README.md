@@ -49,3 +49,9 @@ This is a case for [EnOcean temperature sensor](https://www.enocean.com/en/enoce
 This is a case for a very cheap oscilloscope ["PCB-scope"](http://www.picaxe.com/Hardware/Add-on-Modules/PCB-scope/):
 
 ![Case](./osc001/osc001.jpg)
+
+### Case for thermisotr
+
+This is a case for thermistor ["103AT-2"](http://akizukidenshi.com/catalog/g/gP-07258/):
+
+![Case](./thermistor/thermistor.jpg)
