@@ -38,6 +38,12 @@ This is a stand for bluetooth headset:
 
 [Stand (SVG)](./stand/stand.svg)
 
+### Case for EnOcean temperature sensor
+
+This is a case for [EnOcean temperature sensor](https://www.enocean.com/en/enocean_modules_928mhz/stm-431j/):
+
+![Case](./temperature/temperature.jpg)
+
 ### Case for PCB-scope
 
 This is a case for a very cheap oscilloscope ["PCB-scope"](http://www.picaxe.com/Hardware/Add-on-Modules/PCB-scope/):
