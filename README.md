@@ -52,6 +52,6 @@ This is a case for a very cheap oscilloscope ["PCB-scope"](http://www.picaxe.com
 
 ### Case for thermisotr
 
-This is a case for thermistor ["103AT-2"](http://akizukidenshi.com/catalog/g/gP-07258/):
+This is a case for thermistor ["103AT-2"](http://akizukidenshi.com/catalog/g/gP-07258/) on this [tiny universal board](http://akizukidenshi.com/catalog/g/gP-02515/):
 
 ![Case](./thermistor/thermistor.jpg)
