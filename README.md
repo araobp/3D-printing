@@ -28,7 +28,7 @@ This is a case for [this GPS module](http://akizukidenshi.com/catalog/g/gK-09991
 
 [GPS case (SVG)](./gps/gps.svg)
 
-### Stand
+### Stand for headset
 
 This is a stand for bluetooth headset:
 
@@ -50,7 +50,9 @@ This is a case for a very cheap oscilloscope ["PCB-scope"](http://www.picaxe.com
 
 ![Case](./osc001/osc001.jpg)
 
-### Case for thermisotr
+![Case](./osc001/osc001_case.jpg)
+
+### Case for thermistor
 
 This is a case for thermistor ["103AT-2"](http://akizukidenshi.com/catalog/g/gP-07258/) on this [tiny universal board](http://akizukidenshi.com/catalog/g/gP-02515/):
 
