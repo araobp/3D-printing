@@ -38,6 +38,12 @@ This is a stand for bluetooth headset:
 
 [Stand (SVG)](./stand/stand.svg)
 
+### DIN-rail case for small board
+
+This is a case for [this small board](http://akizukidenshi.com/catalog/g/gP-08241/):
+
+![Case](./fet/fet.jpg)
+
 ### Case for EnOcean temperature sensor
 
 This is a case for [EnOcean temperature sensor](https://www.enocean.com/en/enocean_modules_928mhz/stm-431j/):
