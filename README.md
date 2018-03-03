@@ -44,7 +44,7 @@ This is a case for [this small board](http://akizukidenshi.com/catalog/g/gP-0824
 
 ![Case](./fet/fet.jpg)
 
-Use [this part] to mount it on DIN-rail:
+Use this companion part to mount the case on DIN-rail:
 
 ![Case](./din_rail/din_rail.jpg)
 
