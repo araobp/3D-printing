@@ -44,6 +44,10 @@ This is a case for [this small board](http://akizukidenshi.com/catalog/g/gP-0824
 
 ![Case](./fet/fet.jpg)
 
+Use [this part] to mount it on DIN-rail:
+
+![Case](./din_rail/din_rail.jpg)
+
 ### Case for EnOcean temperature sensor
 
 This is a case for [EnOcean temperature sensor](https://www.enocean.com/en/enocean_modules_928mhz/stm-431j/):
